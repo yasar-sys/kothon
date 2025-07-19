@@ -1,0 +1,22 @@
+Kothon_flutter/
+├── lib/
+│   ├── screens/
+│   │   ├── inbox_screen.dart
+│   │   ├── send_message_screen.dart
+│   │   └── splash_screen.dart
+│   ├── widgets/
+│   │   ├── message_card.dart
+│   │   └── qr_generator.dart
+│   ├── services/
+│   │   └── firebase_service.dart
+│   └── main.dart
+├── assets/
+│   ├── images/
+│   │   └── notepad_texture.png
+│   └── fonts/
+│       └── SiyamRupali.ttf
+├── android/
+├── ios/
+├── pubspec.yaml
+├── README.md
+└── LICENSE (optional)
